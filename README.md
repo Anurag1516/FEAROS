@@ -1,4 +1,4 @@
-# FERAOS
+# FEAROS 
 📖 Overview
 FeAROS is an AI-Assisted Security Information and Event Management (SIEM) system designed to enhance conventional security monitoring capabilities. While traditional SIEMs rely on predefined rules and static thresholds—often failing against unknown attacks and subtle malicious behavior—FeAROS utilizes machine learning-based behavioral analysis to detect anomalies in real-time.  
 This project shifts SIEM from a passive monitoring tool into an active cyber defense platform by implementing a complete Detect → Decide → Act loop.  
