@@ -34,8 +34,14 @@ Maintains administrative access for recovery purposes.
 
 
 Component Technology / Model Purpose
-Log Management ELK Stack (Elasticsearch, Filebeat, Kibana) Data ingestion, storage, and visualization.
+Log Management ELK Stack (Elasticsearch, Filebeat, Kibana) 
+
+Data ingestion, storage, and visualization.
+
 Anomaly Detection Isolation Forest (Scikit-learn) Effective detection of unknown threats.
+
 Text Vectorization TF-IDF + Hashing Efficient log representation.
-Remote Access SSH (Paramiko) Automated host connection for response.
+
+Remote Access SSH (Paramiko) Automated host connection for response
+
 Feature Scaling StandardScaler
